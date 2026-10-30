@@ -1,0 +1,9 @@
+# Android project git ignore
+.gradle/
+/local.properties
+/.idea/
+/.DS_Store
+*.iml
+**/build/
+/app/release/
+/app/debug/
